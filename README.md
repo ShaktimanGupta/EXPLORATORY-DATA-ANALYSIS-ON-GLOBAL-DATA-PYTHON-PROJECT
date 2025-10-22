@@ -7,11 +7,8 @@ Through **Matplotlib** and **Seaborn** visualizations, this analysis explores th
 
 ## 📸 Project Preview
 
-![Dashboard Preview](https://github.com/yourusername/your-repo-name/blob/main/your-image.png)
-
-> 🖼️ *Replace the above link with your actual image link (for example, `https://github.com/ShaktimanGupta/world-data-analysis/blob/main/dashboard.png`).*
-
----
+![Dashboard Preview](https://github.com/ShaktimanGupta/Exploratory-Data-Analysis-on-Global-Dataset/blob/main/Screenshot%202025-10-22%20194415.png)
+(https://github.com/ShaktimanGupta/Exploratory-Data-Analysis-on-Global-Dataset/blob/main/Screenshot%202025-10-22%20194457.png)
 
 ## 📊 Key Insights & Visualizations
 
